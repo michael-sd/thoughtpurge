@@ -38,6 +38,9 @@
 }
 
 .frosty {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin-top: 80px;
   background: rgba(0, 0, 0, 0.5);
   color: white;
   text-align: center;
@@ -53,4 +56,15 @@
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 200;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+}
+
+.thought {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.booyah-box {
+  text-align: center;
+  padding-top: 50px;
 }
